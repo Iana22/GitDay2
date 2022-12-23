@@ -8,4 +8,7 @@ public class HomePage {
 
     // one more update
 
+    //logo
+
+    //footer
 }
